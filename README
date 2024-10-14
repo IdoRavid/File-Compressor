@@ -1,0 +1,27 @@
+IDO File Compressor - Additional Features:
+
+1. GUI - accessed by running display.py
+2. LZW Compressor - accessed by GUI in settings/Compressor or in CL with ["-c" "1"]
+3. Archive Password Protection - Encrypt - select 'Encrypt File checkbox in Gui'
+and add password in text entry box. Via CL: ["-p", "password_content"].
+Decrypt - enter password in text entry box of relevant command. Via CL: ["-p", "password_content"].
+4. Update existing Archive File - by default in GUI & CL. to turn off (replace instead):
+select replace checkbox in GUI or "-r" in CL
+5. Archive Examine - including file deletion, inspection & validation.
+In GUI- Via Examine tab. In CL - "-i" to inspect, "-v" to validate, ["-d", "1,4,3..."] to delete.
+6. Recursively Compress folders - by default in compress command.
+7. Broad Testing - including approx. 95% coverage.
+8. Full Type Annotation for source files.
+
+Further Explanation:
+
+1. GUI - a simple TKinter-based GUI, including all features present in the project.
+special class built for output redirection via an info window.
+
+2. LZW Compressor - implementation of the LZW dictionary-based lossless compression algorithm,
+it supports both binary and text files, but is less modular in terms of byte size, etc.
+
+3. Password protection - implemented using the bcrypt encryption library tools. The idea
+is that combining the hashed password with the new file type would make it secure.
+Meaning, without the source code, the .ido file type is a 'proprietary' type, and thus
+it would be hard to hack and reverse-engineer the structure created.

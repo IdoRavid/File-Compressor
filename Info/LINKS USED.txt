@@ -1,0 +1,24 @@
+LINKS USED:
+
+https://www.studysmarter.co.uk/explanations/computer-science/data-representation-in-computer-science/run-length-encoding/
+https://www.youtube.com/watch?v=OtDxDvCpPL4&t=690s
+https://plainenglish.io/blog/store-passwords-safely-in-python-e38a8c0c8618
+https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f
+https://stackoverflow.com/questions/3321592/how-do-you-create-a-file-format
+https://stackoverflow.com/questions/39909655/listing-of-all-files-in-directory
+https://www.geeksforgeeks.org/reading-binary-files-in-python/
+https://www.ibm.com/docs/en/cobol-zos/6.4?topic=literals-basic-utf-8
+https://stackoverflow.com/questions/47518669/create-new-folder-with-pathlib-and-write-files-into-it
+https://stackoverflow.com/questions/24180527/argparse-required-arguments-listed-under-optional-arguments
+https://stackoverflow.com/questions/15008758/parsing-boolean-values-with-argparse
+https://www.programiz.com/python-programming/user-defined-exception#google_vignette
+https://thepythoncode.com/article/get-directory-size-in-bytes-using-python
+https://stackoverflow.com/questions/30799700/function-name-of-wrapped-function
+https://pathvalidate.readthedocs.io/en/latest/pages/examples/validate.html#validate-a-file-path
+https://www.reddit.com/r/Python/comments/liytrm/modern_ttk_theme/
+https://stackoverflow.com/questions/50955987/auto-resize-tkinter-window-to-fit-all-widgets
+https://stackoverflow.com/questions/46331408/limiting-python-filedialog-to-a-specific-filetype
+https://stackoverflow.com/questions/8432419/intercept-event-when-combobox-edited
+https://stackoverflow.com/questions/62335989/redirect-terminal-output-to-tkinter
+https://rosettacode.org/wiki/LZW_compression
+https://www.youtube.com/watch?v=rZ-JRCPv_O8
