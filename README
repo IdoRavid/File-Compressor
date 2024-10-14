@@ -1,4 +1,7 @@
+HOW TO USE:
+run 'display.py' file
 IDO File Compressor - Additional Features:
+
 
 1. GUI - accessed by running display.py
 2. LZW Compressor - accessed by GUI in settings/Compressor or in CL with ["-c" "1"]
